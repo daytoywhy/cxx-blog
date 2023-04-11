@@ -6,6 +6,7 @@
 #### [new关键字都做了哪些事？](https://github.com/daytoywhy/cxx-blog/issues/3)
 #### [Promise的原理及方法](https://github.com/daytoywhy/cxx-blog/issues/4)
 #### [Map、Set、WeakMap、WeakSet的区别](https://github.com/daytoywhy/cxx-blog/issues/6)
+#### [手写一个发布订阅模式](https://github.com/daytoywhy/cxx-blog/issues/8)
 
 
 ### 二、CSS
