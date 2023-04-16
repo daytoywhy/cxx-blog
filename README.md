@@ -13,3 +13,6 @@
 ### 二、CSS
 #### [圣杯布局和双飞翼布局的实现](https://github.com/daytoywhy/cxx-blog/issues/5)
 #### [深入学习BFC块格式化上下文](https://github.com/daytoywhy/cxx-blog/issues/7)
+
+### 三、工作问题分享
+#### [Vuex持久化储存和$route对象序列号报错](https://github.com/daytoywhy/cxx-blog/issues/10)
